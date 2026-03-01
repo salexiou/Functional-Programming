@@ -4,6 +4,11 @@ A robust, functional programming-based data analytics pipeline built entirely on
 
 Developed for the **"Functional Programming, Analytics and Applications" (INF424)** course at the Technical University of Crete (TUC), this project demonstrates the processing of large-scale, semi-structured, and structured datasets utilizing Spark's resilient distributed datasets (RDDs) and Dataframes.
 
+**Authors:** 
+* Georgios Argyris (AM: 2020030138)
+* Stamatios Alexiou (AM: 2020030158)
+
+
 ## 🚀 Project Overview
 
 The project is divided into two major application scenarios. *Note: Pure functional transformations and higher-order functions are utilized throughout the project. The use of standard `spark.sql` string queries was strictly prohibited to enforce functional programming paradigms.*
